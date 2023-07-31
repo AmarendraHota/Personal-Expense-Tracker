@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Personal-Expense-Tracker/static/css/main.828a1bdd.css",
+    "main.js": "/Personal-Expense-Tracker/static/js/main.c2a94683.js",
+    "static/js/787.e7509647.chunk.js": "/Personal-Expense-Tracker/static/js/787.e7509647.chunk.js",
+    "index.html": "/Personal-Expense-Tracker/index.html",
+    "main.828a1bdd.css.map": "/Personal-Expense-Tracker/static/css/main.828a1bdd.css.map",
+    "main.c2a94683.js.map": "/Personal-Expense-Tracker/static/js/main.c2a94683.js.map",
+    "787.e7509647.chunk.js.map": "/Personal-Expense-Tracker/static/js/787.e7509647.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.828a1bdd.css",
+    "static/js/main.c2a94683.js"
+  ]
+}
